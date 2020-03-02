@@ -20,6 +20,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+| Mar 1   | https://en.wikipedia.org/w/index.php?title=The_Idolmaster&oldid=943315547   | Wikipedia edit    |   I added a little more info to the Social network games section.    |
+| Mar 1   | https://en.wikipedia.org/w/index.php?title=Super_Robot_Wars&oldid=943318851    | Wikipedia edit    |   I updated outdated information in the Super Robot Wars titles section.   |
 |     |     |     |      |
