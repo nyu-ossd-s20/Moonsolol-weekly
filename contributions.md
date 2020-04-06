@@ -22,4 +22,6 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Mar 1   | https://en.wikipedia.org/w/index.php?title=The_Idolmaster&oldid=943315547   | Wikipedia edit    |   I added a little more info to the Social network games section.    |
 | Mar 1   | https://en.wikipedia.org/w/index.php?title=Super_Robot_Wars&oldid=943318851    | Wikipedia edit    |   I updated outdated information in the Super Robot Wars titles section.   |
+| Mar 23   | https://en.wikipedia.org/w/index.php?title=Virtual_YouTuber&oldid=947008569    | Wikipedia edit    |   I added some more examples of notable Vtubers from Hololive.   |
+| Apr 6   | https://en.wikipedia.org/w/index.php?title=Granblue_Fantasy&oldid=949397620    | Wikipedia edit    |   I updated outdated information in the Other Media section.   |
 |     |     |     |      |
